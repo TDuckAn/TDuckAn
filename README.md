@@ -1,43 +1,80 @@
-<h1 align="center">Hi there 👋, I'm Ân</h1>
+<h1 align="center">Hi 👋, I'm Ân</h1>
 
 <p align="center">
-  💻 Passionate about coding, learning, and building cool stuff.<br>
-  🧠 Always exploring new technologies – currently excited about AI.<br>
-  📍 Based in Vietnam
+  💻 Software Developer | Backend & Game Dev Enthusiast <br>
+  🧠 Interested in backend systems, APIs, and AI concepts <br>
+  📍 Vietnam
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working with **ASP.NET Core** and **Unity**
+- 🌱 Learning **backend API design**, **data structures**, and **AI fundamentals**
+- 🎮 Interested in **game development**, **web applications**, and **system design**
+- 🤝 Open to collaboration on learning projects and real-world applications
 
 ---
 
 ### 🛠️ Tech Stack
 
-- 🔹 **Languages:** C#, Java (basic), JavaScript (basic), SQL, HTML, CSS  
-- 🔹 **Frameworks:** ASP.NET Core, Entity Framework  
-- 🔹 **Game Dev:** Unity  
-- 🔹 **Tools & Others:** Git, GitHub, Visual Studio, VS Code, Postman
+**Languages**
+- C#, SQL
+- Java (basic), JavaScript (basic)
+- HTML, CSS
+
+**Frameworks & Platforms**
+- ASP.NET Core
+- Entity Framework Core
+- Unity
+
+**Tools**
+- Git, GitHub  
+- Visual Studio, Visual Studio Code  
+- Postman
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TDuckAn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TDuckAn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDuckAn&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDuckAn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
 
-### 📬 Contact Me
+### 🔥 Activity Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TDuckAn&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📌 Featured Interests
+
+- Backend APIs & database-driven systems
+- Game mechanics & gameplay logic
+- Clean architecture & maintainable code
+- Learning-by-building mindset
+
+---
+
+### 📬 Contact
 
 - ✉️ Email: **faneverdie2005@gmail.com**
+- 💼 GitHub: [github.com/TDuckAn](https://github.com/TDuckAn)
 
 ---
 
 <details>
-  <summary>📌 A bit more about me...</summary>
-  
-  - 🔭 I’m currently working on .NET and Unity projects  
-  - 🌱 I’m learning about backend APIs, data structures, and AI concepts  
-  - 🤝 I’m open to collaborations in game dev, web apps, and learning projects  
+  <summary>📖 More about my journey</summary>
+
+  - Started with small projects and gradually moved toward backend systems
+  - Enjoys breaking down complex problems into simple solutions
+  - Actively improving code quality, structure, and documentation
 
 </details>
