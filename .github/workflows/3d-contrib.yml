@@ -11,8 +11,8 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${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 }
+          USERNAME: ${TDuckAn}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: generate 3d contrib
