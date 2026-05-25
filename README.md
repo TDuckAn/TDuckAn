@@ -1,82 +1,109 @@
-<h1 align="center">Hi 👋, I'm Ân</h1>
+<div align="center">
 
-<p align="center">
-  💻 Software Developer | Backend & Game Dev Enthusiast <br>
-  🧠 Interested in backend systems, APIs, and AI concepts <br>
-  📍 Vietnam
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Trọng%20Ân&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20·%20Builder%20·%20AI-Augmented%20Thinker&descSize=16&descAlignY=55&descColor=aaaaff" />
 
----
+</div>
 
-### 👨‍💻 About Me
+<div align="center">
 
-- 🔭 Currently working with **ASP.NET Core** and **Unity**
-- 🌱 Learning **backend API design**, **data structures**, and **AI fundamentals**
-- 🎮 Interested in **game development**, **web applications**, and **system design**
-- 🤝 Open to collaboration on learning projects and real-world applications
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7B8CDE&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+software;Backend+%7C+Web+%7C+Games+%7C+Systems;Learning+fast+with+AI+as+a+co-pilot;Clean+code+%2B+curious+mind+%3D+anything+possible)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 👤 Who I Am
 
-**Languages**
-- C#, SQL
-- Java (basic), JavaScript (basic)
-- HTML, CSS
+I'm **Ân** — a software developer based in **Vietnam 🇻🇳**, passionate about building things that work well and are built right. My background spans backend systems, web applications, and game development — but what defines me more than any tech stack is how I approach problems: **methodically, creatively, and with the right tools for the job**.
 
-**Frameworks & Platforms**
-- ASP.NET Core
-- Entity Framework Core
-- Unity
+I leverage **AI as an amplifier** — using it to prototype faster, reason through architecture decisions, review code, and explore unfamiliar domains. I don't box myself into a single specialization; I build what needs to be built.
 
-**Tools**
-- Git, GitHub  
-- Visual Studio, Visual Studio Code  
-- Postman
+> *"The best engineers aren't defined by what they already know — but by how fast they learn and how well they apply it."*
 
 ---
 
-### 📊 GitHub Overview
+## 🚀 What I Work With
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TDuckAn&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TDuckAn&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TDuckAn&theme=tokyonight" />
-</p>
----
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔥 Activity Streak
+### Frameworks & Platforms
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TDuckAn&theme=tokyonight&hide_border=true" />
-</p>
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-### 📌 Featured Interests
-
-- Backend APIs & database-driven systems
-- Game mechanics & gameplay logic
-- Clean architecture & maintainable code
-- Learning-by-building mindset
-
----
-
-### 📬 Contact
-
-- ✉️ Email: **faneverdie2005@gmail.com**
-- 💼 GitHub: [github.com/TDuckAn](https://github.com/TDuckAn)
+</div>
 
 ---
 
-<details>
-  <summary>📖 More about my journey</summary>
+## 🧠 How I Think & Build
 
-  - Started with small projects and gradually moved toward backend systems
-  - Enjoys breaking down complex problems into simple solutions
-  - Actively improving code quality, structure, and documentation
+```
+📐  Architecture first       →  Understand the system before writing a line
+🤖  AI as a force multiplier →  Use AI to think faster, not to think less
+🔁  Build → Break → Fix      →  Learning through real projects, not tutorials
+🧹  Clean over clever        →  Readable code is maintainable code
+🌐  Full-picture thinking    →  From database schema to user experience
+```
 
-</details>
+---
+
+## 🌱 Currently Exploring
+
+- 🔧 **API Design** — RESTful patterns, versioning, and clean contracts
+- 🗃️ **Data Modeling** — Relational design, query optimization, and EF Core internals  
+- 🤖 **AI Integration** — Embedding AI into real applications and workflows  
+- 🎮 **Game Systems** — Scalable mechanics, state machines, and gameplay loops  
+- 📐 **System Design** — Thinking at scale, even on small projects  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TDuckAn&theme=tokyonight" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TDuckAn&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TDuckAn&theme=tokyonight" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TDuckAn&theme=tokyonight&hide_border=true&border_radius=8" width="60%" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaboration, conversation, or just sharing ideas. Whether it's a side project, a learning initiative, or feedback on something I'm building — feel free to reach out.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-faneverdie2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faneverdie2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-TDuckAn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TDuckAn)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
