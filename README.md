@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Trọng%20Ân&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20·%20Builder%20·%20AI-Augmented%20Thinker&descSize=16&descAlignY=55&descColor=aaaaff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Trần%20Đức%20Ân&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20·%20Builder%20·%20AI-Augmented%20Thinker&descSize=16&descAlignY=55&descColor=aaaaff" />
 
 </div>
 
