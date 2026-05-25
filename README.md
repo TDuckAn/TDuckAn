@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Trần%20Đức%20Ân&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20·%20Builder%20·%20AI-Augmented%20Thinker&descSize=16&descAlignY=55&descColor=aaaaff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Trọng%20Ân&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20·%20Builder%20·%20AI-Augmented%20Thinker&descSize=16&descAlignY=55&descColor=aaaaff" />
 
 </div>
 
@@ -72,20 +72,64 @@ I leverage **AI as an amplifier** — using it to prototype faster, reason throu
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub At a Glance
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TDuckAn&theme=tokyonight" width="100%" />
+<!-- 🏆 Trophy Showcase -->
+<img src="https://github-profile-trophy.vercel.app/?username=TDuckAn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="trophies"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TDuckAn&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TDuckAn&theme=tokyonight" width="48%" />
+<br/>
 
-<br/><br/>
+<!-- 📈 Stats + Languages side by side -->
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=TDuckAn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&ring_color=7B8CDE&title_color=7B8CDE&icon_color=BB86FC" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDuckAn&layout=donut&theme=tokyonight&hide_border=true&border_radius=16&title_color=7B8CDE" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TDuckAn&theme=tokyonight&hide_border=true&border_radius=8" width="60%" />
+<br/>
+
+<!-- 🔥 Streak — wide and prominent -->
+<img src="https://streak-stats.demolab.com?user=TDuckAn&theme=tokyonight-duo&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&ring=7B8CDE&fire=BB86FC&currStreakLabel=7B8CDE" width="70%" alt="streak"/>
+
+<br/>
+
+<!-- 🌊 Activity Graph — the wow moment -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TDuckAn&theme=tokyo-night&hide_border=true&area=true&area_color=7B8CDE&color=BB86FC&line=7B8CDE&point=ffffff&radius=6" width="100%" alt="activity graph"/>
 
 </div>
+
+<details>
+<summary>⚡ <b>Want an even more stunning 3D contribution graph?</b> Click to see setup</summary>
+<br/>
+
+Add this GitHub Actions workflow at `.github/workflows/3d-contrib.yml` to auto-generate a **3D isometric contribution calendar** on your profile:
+
+```yaml
+name: GitHub-Profile-3D-Contrib
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: generate 3d contrib
+```
+
+Then display it with:
+```markdown
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+```
+
+</details>
 
 ---
 
