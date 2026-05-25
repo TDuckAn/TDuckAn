@@ -97,39 +97,7 @@ I leverage **AI as an amplifier** — using it to prototype faster, reason throu
 
 </div>
 
-<details>
-<summary>⚡ <b>Want an even more stunning 3D contribution graph?</b> Click to see setup</summary>
-<br/>
-
-Add this GitHub Actions workflow at `.github/workflows/3d-contrib.yml` to auto-generate a **3D isometric contribution calendar** on your profile:
-
-```yaml
-name: GitHub-Profile-3D-Contrib
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: generate 3d contrib
-```
-
-Then display it with:
-```markdown
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-```
-
-</details>
 
 ---
 
