@@ -97,7 +97,6 @@ I leverage **AI as an amplifier** — using it to prototype faster, reason throu
 
 </div>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 ---
 
