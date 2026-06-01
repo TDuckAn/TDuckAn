@@ -74,6 +74,7 @@ I leverage **AI as an amplifier** — using it to prototype faster, reason throu
 
 <!-- ===================== GITHUB AT A GLANCE ===================== -->
 
+
 <h2 align="center">📊 GitHub Analytics & Performance</h2>
 
 <p align="center">
@@ -82,28 +83,19 @@ I leverage **AI as an amplifier** — using it to prototype faster, reason throu
 
 <div align="center">
 
-<!-- Trophy Showcase -->
-<img
-  src="https://github-profile-trophy.vercel.app/?username=TDuckAn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
-  width="100%"
-  alt="GitHub trophies"
-/>
-
-<br/><br/>
-
 <!-- Stats Cards -->
 <table>
   <tr>
     <td width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=TDuckAn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&bg_color=0D1117&title_color=7B8CDE&text_color=C9D1D9&icon_color=BB86FC&ring_color=BB86FC"
+        src="https://github-readme-stats.vercel.app/api?username=TDuckAn&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=18&amp;include_all_commits=true&amp;rank_icon=github&amp;cache_seconds=21600"
         width="100%"
         alt="GitHub stats"
       />
     </td>
     <td width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDuckAn&layout=compact&theme=tokyonight&hide_border=true&border_radius=18&bg_color=0D1117&title_color=7B8CDE&text_color=C9D1D9&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDuckAn&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=18&amp;langs_count=8&amp;cache_seconds=21600"
         width="100%"
         alt="Top languages"
       />
@@ -115,7 +107,7 @@ I leverage **AI as an amplifier** — using it to prototype faster, reason throu
 
 <!-- GitHub Streak -->
 <img
-  src="https://streak-stats.demolab.com?user=TDuckAn&theme=tokyonight-duo&hide_border=true&border_radius=18&background=0D1117&ring=7B8CDE&fire=BB86FC&currStreakLabel=7B8CDE&sideLabels=C9D1D9&dates=8B949E"
+  src="https://streak-stats.demolab.com?user=TDuckAn&amp;theme=tokyonight-duo&amp;hide_border=true&amp;border_radius=18&amp;background=0D1117&amp;ring=7B8CDE&amp;fire=BB86FC&amp;currStreakLabel=7B8CDE&amp;sideLabels=C9D1D9&amp;dates=8B949E"
   width="75%"
   alt="GitHub streak"
 />
@@ -124,7 +116,7 @@ I leverage **AI as an amplifier** — using it to prototype faster, reason throu
 
 <!-- Activity Graph -->
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TDuckAn&theme=tokyo-night&hide_border=true&area=true&area_color=7B8CDE&color=C9D1D9&line=BB86FC&point=FFFFFF&radius=10"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TDuckAn&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;area_color=7B8CDE&amp;color=C9D1D9&amp;line=BB86FC&amp;point=FFFFFF&amp;radius=10"
   width="100%"
   alt="GitHub activity graph"
 />
@@ -135,14 +127,17 @@ I leverage **AI as an amplifier** — using it to prototype faster, reason throu
 <h3 align="center">🚀 Core Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,ts,react,html,css,bootstrap,mysql,git,github,postman,vscode,visualstudio&theme=dark" />
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,java,js,ts,react,html,css,bootstrap,mysql,git,github,postman,vscode,visualstudio&amp;theme=dark"
+    alt="Core tech stack"
+  />
 </p>
 
 <br/>
 
 <!-- Profile Summary -->
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TDuckAn&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TDuckAn&amp;theme=tokyonight"
   width="100%"
   alt="GitHub profile summary"
 />
@@ -154,14 +149,14 @@ I leverage **AI as an amplifier** — using it to prototype faster, reason throu
   <tr>
     <td width="50%">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TDuckAn&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TDuckAn&amp;theme=tokyonight"
         width="100%"
         alt="Repos per language"
       />
     </td>
     <td width="50%">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TDuckAn&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TDuckAn&amp;theme=tokyonight"
         width="100%"
         alt="Most commit language"
       />
@@ -171,12 +166,12 @@ I leverage **AI as an amplifier** — using it to prototype faster, reason throu
 
 <br/>
 
-<!-- Closing Line -->
 <p align="center">
   <b>Building full-stack systems with clean architecture, practical UI, and scalable backend design.</b>
 </p>
 
 </div>
+
 
 ---
 
