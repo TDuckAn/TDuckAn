@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Trần%20Đức%20Ân&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20·%20Full-Stack%20Builder%20·%20AI-Augmented%20Thinker&descSize=15&descAlignY=58&descColor=c9c9ff" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Trần%20Đức%20Ân&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Business%20Analyst-Minded%20Developer%20·%20Full-Stack%20Builder&descSize=15&descAlignY=58&descColor=c9c9ff" alt="Header" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=9D8CFF&center=true&vCenter=true&width=700&lines=Building+full-stack+products+from+idea+to+deployment;Web+%7C+Backend+%7C+Databases+%7C+Tools+%7C+Games;Shipping+clean%2C+maintainable%2C+real-world+software;AI-assisted+development+done+thoughtfully)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=9D8CFF&center=true&vCenter=true&width=700&lines=Bridging+business+requirements+and+working+software;Research-driven+problem+solving+across+domains;Web+%7C+Backend+%7C+Databases+%7C+Game+Systems;Open+to+remote+opportunities+worldwide)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,13 +16,13 @@
 
 ## About
 
-I'm **Ân** — a software developer based in **Vietnam 🇻🇳**, focused on building real software across different domains.
+I'm **Ân**, a developer based in **Vietnam 🇻🇳** with a background rooted in business analysis and full-stack development.
 
-I work across web, backend, and system-level problems. Rather than specializing narrowly, I invest in the ability to pick up new tools quickly, understand problems deeply, and ship working software.
+My strength is figuring out *what* needs to be built and *why* — breaking down requirements, researching unfamiliar domains, and translating them into a working technical plan. That research habit is what lets me move across web, backend, and system-level work instead of staying locked into one narrow stack.
 
-I use AI as a structured development partner — for architecture planning, debugging, code review, and accelerating learning. The goal is always to think more clearly, not less.
+On the implementation side, I use AI tools as part of my normal workflow — the same way I'd use documentation, Stack Overflow, or a senior teammate. I can read, review, and reason about code even when I didn't type every line myself, and I don't ship anything I don't understand. The thinking, the research, and the decisions are mine; AI just speeds up the parts that would otherwise slow me down.
 
-> *"The best engineers are not defined by one field, but by how fast they learn and how well they adapt."*
+I'm currently looking for **remote roles with international teams**, where the work itself matters more than geography.
 
 <br/>
 
@@ -82,12 +82,12 @@ I use AI as a structured development partner — for architecture planning, debu
 
 | Principle | What it means in practice |
 |---|---|
-| 🎯 **Understand the problem first** | Define what needs to be solved before choosing a tech stack |
-| 🤖 **AI as a co-pilot** | Use AI to think faster and learn quicker — not to replace thinking |
-| 🔁 **Build → Break → Improve** | Ship early, iterate fast, learn from real feedback |
-| 🧹 **Clean over clever** | Code others can read and maintain is more valuable than code that impresses |
-| 🔧 **Tool-agnostic** | Pick what fits the problem, not just what's familiar |
-| 🗺️ **Full-picture thinking** | Own the whole flow: database → backend → API → UI → UX |
+| 🔍 **Requirements before code** | I research the problem and the domain before touching a stack |
+| 🧭 **BA mindset, dev output** | Comfortable turning vague asks into scoped, buildable specs |
+| 🤝 **AI as a tool, not a shortcut** | Used for speed and review — every decision is one I can explain |
+| 📖 **Read before I ship** | I understand what a piece of code does before it goes in, whether I wrote it or not |
+| 🔁 **Build → Break → Improve** | Ship early, iterate on real feedback |
+| 🗺️ **Full-picture thinking** | Own the flow: requirements → database → backend → API → UI |
 
 <br/>
 
@@ -96,12 +96,11 @@ I use AI as a structured development partner — for architecture planning, debu
 ## Currently Exploring
 
 ```
-🔧  Web & Backend      →  REST APIs · Auth systems · Clean architecture
-🤖  AI-Assisted Dev    →  Planning · Debugging · Prototyping · Learning loops
-🧰  Software Tools     →  Utilities and workflows that solve real problems
-🎮  Game Systems       →  Gameplay logic · State management · Interactive design
-📐  System Thinking    →  How components connect and scale together
-🧪  Experiments        →  New ideas, new stacks, new development approaches
+📋  Business Analysis   →  Requirement gathering · Process mapping · Scoping
+🔧  Web & Backend        →  REST APIs · Auth systems · Clean architecture
+🤖  AI-Assisted Dev      →  Research · Debugging · Prototyping faster
+🎮  Game Systems         →  Gameplay logic · State management
+📐  System Thinking      →  How components connect and scale together
 ```
 
 <br/>
@@ -132,7 +131,7 @@ I use AI as a structured development partner — for architecture planning, debu
 
 ## Let's Connect
 
-I'm open to collaboration, internship opportunities, freelance work, or just a good technical conversation.
+Open to remote roles, internships, and freelance/project collaboration — any team, any timezone.
 
 <div align="center">
 
@@ -141,10 +140,6 @@ I'm open to collaboration, internship opportunities, freelance work, or just a g
 [![Email](https://img.shields.io/badge/Gmail-faneverdie2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faneverdie2005@gmail.com)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-TDuckAn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TDuckAn)
-
-<br/><br/>
-
-*Available for junior developer roles, internships, and project collaborations.*
 
 </div>
 
